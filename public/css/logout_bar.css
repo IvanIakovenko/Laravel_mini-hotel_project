@@ -1,0 +1,9 @@
+.logout_nav {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	background-color: #F4F4F3;
+	height: 4vh;
+
+	/*position: relative;*/ /*это для выпадающего меню*/
+}
